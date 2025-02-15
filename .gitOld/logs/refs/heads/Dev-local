@@ -1,0 +1,31 @@
+0000000000000000000000000000000000000000 84048431f11b68aab6b5abf160c37997023c5ecb Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739365635 -0300	branch: Created from main
+84048431f11b68aab6b5abf160c37997023c5ecb 41052f29287d4fc7f2c14d6099018d3864d0ddb8 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739366155 -0300	commit: Home
+41052f29287d4fc7f2c14d6099018d3864d0ddb8 17862038a3179b7fd411a591c9e2467d95dc017a Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739367441 -0300	commit: Blog
+17862038a3179b7fd411a591c9e2467d95dc017a 0e803af9fa4c7f8aec76f4fb62d17ba214b582fc Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739367678 -0300	commit: Blog update
+0e803af9fa4c7f8aec76f4fb62d17ba214b582fc 461e684957f88f2104e88ba06baac1f3a6b9a582 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739367891 -0300	commit: Criação da view erro 403
+461e684957f88f2104e88ba06baac1f3a6b9a582 0eba2fdca2ec1a716ba2630657f5bf7b38f858a7 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739369525 -0300	commit: Postagem de anúncio
+0eba2fdca2ec1a716ba2630657f5bf7b38f858a7 e67b73c29867e6cc22550b6ce1bc403fd9b66f77 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739377116 -0300	commit: Cadastro de anuncio
+e67b73c29867e6cc22550b6ce1bc403fd9b66f77 70abfdb4c98f400a0b8b77d51e8a5f42cfb11f52 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739379766 -0300	commit: Planos
+70abfdb4c98f400a0b8b77d51e8a5f42cfb11f52 c58fda985de50dc59768bd4798bb096d3e581bf6 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739380126 -0300	commit: Update pagina planos
+c58fda985de50dc59768bd4798bb096d3e581bf6 29351122d3fd76ab6a7fbc6093898a47fc2986d0 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739380966 -0300	commit: Correção navbar dashboard admin
+29351122d3fd76ab6a7fbc6093898a47fc2986d0 4d565a8654a3a7814b300c868605dd1c19255da9 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739381038 -0300	commit: Update dashboard.blade.php
+4d565a8654a3a7814b300c868605dd1c19255da9 7b517403200bb92a49cb65a85e019c48668a6b3a Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739385863 -0300	commit: Correção editar anuncio
+7b517403200bb92a49cb65a85e019c48668a6b3a d2620cc9ed2a7b5b78cbe030ae2557a34b74a8fc Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739386508 -0300	commit: Role ao cadastrar
+d2620cc9ed2a7b5b78cbe030ae2557a34b74a8fc 741a59a5bdd8df4111ad8f3d381dd7747b37bd72 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739449164 -0300	commit: Gerenciamento de users
+741a59a5bdd8df4111ad8f3d381dd7747b37bd72 6f88c968252255b0900b05c34e7808800a6540ba Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739452208 -0300	commit: Ajuste layout, correção de bugs
+6f88c968252255b0900b05c34e7808800a6540ba a60557c8e671f40f3900d21efe93c9b8378dd421 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739452686 -0300	commit: Correção modo light
+a60557c8e671f40f3900d21efe93c9b8378dd421 35dfd1d6bf613094c24ef46f18570737a80163e5 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739454068 -0300	commit: Estatisticas
+35dfd1d6bf613094c24ef46f18570737a80163e5 7b741fdf1ff9fbac950b3b00fc6e0b4ac89cadbe Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739456460 -0300	commit: Fotos, modal e qt de fotos
+7b741fdf1ff9fbac950b3b00fc6e0b4ac89cadbe 35dfd1d6bf613094c24ef46f18570737a80163e5 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739462898 -0300	reset: moving to 35dfd1d6bf613094c24ef46f18570737a80163e5
+35dfd1d6bf613094c24ef46f18570737a80163e5 f0c01e160cc9d0f37b22bef72220766e6283d8ff Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739463728 -0300	commit: Estados, cidades
+f0c01e160cc9d0f37b22bef72220766e6283d8ff c697509792e4eedc9b787bcdf691896db834ab91 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739464122 -0300	commit: Filtro
+c697509792e4eedc9b787bcdf691896db834ab91 013b25f788e56a404f74e05a26f6699694b4289e Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739467768 -0300	commit: contratação por wpp
+013b25f788e56a404f74e05a26f6699694b4289e d89e6569ff7f91f77ba371bb7e06d333d7c3a8bf Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739468371 -0300	commit: Modal +18
+d89e6569ff7f91f77ba371bb7e06d333d7c3a8bf 7f51441b3b31cc50aa3edd399eebb266c4cf832e Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739468872 -0300	commit: Login cliente
+7f51441b3b31cc50aa3edd399eebb266c4cf832e c3fc8d2be94720f609a3f13e4bfa18e9d133bc77 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739474071 -0300	commit: Fotos
+c3fc8d2be94720f609a3f13e4bfa18e9d133bc77 45bbfbfdb72ceedddbbde3968202363dda565580 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739475728 -0300	commit: Cores, layout anuncios
+45bbfbfdb72ceedddbbde3968202363dda565580 3727e8d70a598c9368743740b1bf0f10c6902bff Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739475738 -0300	pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+3727e8d70a598c9368743740b1bf0f10c6902bff 24a58407873008822247b8cc05e4ba4cc0d6d780 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739542828 -0300	commit: Galeria, swiper e upload de video
+24a58407873008822247b8cc05e4ba4cc0d6d780 5371832a30475633390de67965172d2c85721675 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739550739 -0300	commit: Ajuste lightbox e ads
+5371832a30475633390de67965172d2c85721675 77e69ea326e9025486b811eae3564b20bdfb42c3 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739560566 -0300	commit: correção start
+77e69ea326e9025486b811eae3564b20bdfb42c3 1d0683586a63c0e020db0467ab09c7d000bf7962 Kedllon Kleber <50781783+kkleber1991@users.noreply.github.com> 1739627406 -0300	commit: t
